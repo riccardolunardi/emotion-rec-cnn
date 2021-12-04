@@ -17,7 +17,7 @@ Put both the source code in a .zip file named after your student id: “idstuden
 group of two, e.g. “012345 678901.zip”. The .zip file must be uploaded to the
 appropriate folder of the ELearning page of this course no later than the specified deadline.
 ### **DEADLINE: Wednesday December 15th, 2021 (you have time up until midnight).**
-##Assignment
+## Assignment
 In this assignment you will get familiarized with CNNs, and you will develop a
 solution for a classification problem, namely the emotion recognition task.
 Given a dataset of images with different facial expressions labeled as one of the
