@@ -1,0 +1,25 @@
+Accuratezza del modello: 48 %
+Accuratezza Angry : 39 %
+Accuratezza Disgust : 45 %
+Accuratezza  Fear : 28 %
+Accuratezza Happy : 70 %
+Accuratezza   Sad : 31 %
+Accuratezza Surprise : 68 %
+Accuratezza Neutral : 41 %
+
+-------------------------------------------------------------
+
+              precision    recall  f1-score   support
+
+           0  0.3741294 0.3933054 0.3834778       956
+           1  0.2394366 0.4594595 0.3148148       111
+           2  0.3341040 0.2827789 0.3063063      1022
+           3  0.6654054 0.6939121 0.6793598      1774
+           4  0.3765491 0.3177796 0.3446771      1243
+           5  0.5764828 0.6666667 0.6183036       831
+           6  0.4661224 0.4638505 0.4649837      1231
+
+    accuracy                      0.4836775      7168
+   macro avg  0.4331757 0.4682504 0.4445605      7168
+weighted avg  0.4781017 0.4836775 0.4791319      7168
+
